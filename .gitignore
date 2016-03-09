@@ -26,3 +26,10 @@
 *.exe
 *.out
 *.app
+
+*.DS_Store
+
+pthreads/examples/race
+pthreads/sortingnet/val
+
+
